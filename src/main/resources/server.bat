@@ -1,0 +1,1 @@
+java -server -cp ./classes;./libs/* com.curlymaple.sandbox.SandboxServer
